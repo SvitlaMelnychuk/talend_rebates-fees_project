@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+trf_project/__init__.py
+trf_project/goodbye.py
+trf_project/hello.py
+trf_project.egg-info/PKG-INFO
+trf_project.egg-info/SOURCES.txt
+trf_project.egg-info/dependency_links.txt
+trf_project.egg-info/top_level.txt
